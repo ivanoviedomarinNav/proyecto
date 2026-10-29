@@ -1,0 +1,9 @@
+COPIA DE SEGURIDAD DE LA LLAVE DEL PROGRAMA
+=========================================
+
+public.bin          -> clave publica (no es secreta)
+private_wrapped.bin -> clave privada cifrada con tu contrasena
+
+Guarda estos dos archivos junto con Descifrar.exe en un lugar seguro
+(USB, nube personal). Sin ellos o sin la contrasena no hay forma de
+recuperar las carpetas cifradas.

@@ -1,0 +1,5 @@
+#include <windows.h>
+#include "resource.h"
+1 24 "C:\\Users\\navim\\OneDrive\\Escritorio\\app de seguridad\\src\\app.manifest"
+IDI_APP_ICON ICON "C:\\Users\\navim\\OneDrive\\Escritorio\\app de seguridad\\src\\app.ico"
+IDR_APP_IMAGE RCDATA "C:\\Users\\navim\\OneDrive\\Escritorio\\app de seguridad\\src\\imagen.png"

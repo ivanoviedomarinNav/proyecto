@@ -1,0 +1,10 @@
+﻿CIFRAR.EXE    -> puede quedarse aqui o en el Escritorio. No contiene secretos.
+                 Al abrirlo aparece primero una ventanita de ejemplo
+                 "Destination Folder"; OK y Cancelar continuan igual.
+
+DESCIFRAR.EXE -> NO lo dejes a la vista. Muevelo a un USB o a una carpeta privada.
+
+Guarda una copia de Descifrar.exe y de la carpeta keys\ en otro lugar.
+Sin esa copia y sin la contrasena no se pueden recuperar las carpetas cifradas.
+
+Instrucciones completas en ..\README.md
